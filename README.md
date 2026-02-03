@@ -5,7 +5,7 @@ A simple CLI tool to download audio files from [Freesound.org](https://freesound
 ## Installation
 
 ```bash
-git clone https://github.com/enXov/freesound-downloader.git
+git clone https://github.com/enXov/freesound.git
 cd freesound-downloader
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
